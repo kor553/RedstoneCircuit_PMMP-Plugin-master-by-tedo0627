@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/kor553/RedstoneCircuit_PMMP-Plugin-master-by-tedo0627
+build-by-default: false
+branches:
+- main
+projects:
+  RedstoneCircuit_PMMP-Plugin-master by tedo0627.RedstoneCircuit:
+    path: RedstoneCircuit_PMMP-Plugin-master by tedo0627/RedstoneCircuit/
+...
